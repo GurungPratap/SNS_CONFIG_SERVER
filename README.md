@@ -1,0 +1,2 @@
+# SNS_CONFIG_SERVER
+SPRING CLOUD CONFIG SERVER implementation for SNS project
